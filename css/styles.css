@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+/*@font-face {
+    font-family: skyBold;
+    src: url(../../fonts/SkyText-Bold.ttf);
+}
+@font-face {
+    font-family: skyRegular;
+    src: url(../../fonts/SkyText-Regular.ttf);
+}
+@font-face {
+    font-family: skyMedium;
+    src: url(../../fonts/SkyTextMedium-Regular.ttf);
+}
+body{
+	font-family: skyBold;
+}
+#skyMedium{
+	font-family: skyMedium;
+}
+#skyRegular{
+	font-family: skyRegular;
+}
+#skyBold{
+	font-family: skyBold;
+}
+
+*/
+body{
+	margin: 0;
+}
